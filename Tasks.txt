@@ -1,0 +1,4 @@
+ 1- Create A Repo
+ 2- Create A Branch if Fullstack [Front-Back] else [Back Or Front]
+ 3- Upload All Tasks 
+ 4- Attach On Trello
